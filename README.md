@@ -55,4 +55,3 @@ Este proyecto es una aplicación web sencilla que muestra mi nombre, carnet y cu
 
 ---
 
-Si tienes algún error o quieres optimizar algo, avísame. 🚀
